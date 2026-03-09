@@ -1,0 +1,18 @@
+{
+  "name": "minimarket-sorting-game",
+  "version": "3.0.0",
+  "description": "Toko Serba Wow - Kids Friendly Sorting Game V3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
